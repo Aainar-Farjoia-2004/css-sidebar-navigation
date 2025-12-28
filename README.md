@@ -4,6 +4,10 @@ A modern and responsive sidebar navigation project built using **HTML and CSS** 
 This project focuses on UI layout design, transitions, icons, and smooth user interactions without using JavaScript.
 
 ---
+## 🌍 Live Preview
+
+🔗 https://aainar-farjoia-2004.github.io/css-sidebar-navigation/
+---
 
 ## 🚀 Features
 
